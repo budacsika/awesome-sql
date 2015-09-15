@@ -13,4 +13,4 @@ A curated list of awesome SQL documentations, tutorials and online education. In
 
 ## Education
 - [Code School](https://www.codeschool.com/courses/try-sql) - Try SQL. Free course.
-- [Code School](https://www.codeschool.com/courses/the-sequel-to-sql) - aggregate, table constraints, normalization, relationships, joins, subqueries)
+- [Code School](https://www.codeschool.com/courses/the-sequel-to-sql) - aggregate, table constraints, normalization, relationships, joins, subqueries
