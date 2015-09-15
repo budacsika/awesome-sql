@@ -1,5 +1,5 @@
 # awesome-sql
-A curated list of awesome SQL documentations, tutorials and online education. Inspired by [sindresorhus awesome](https://github.com/sindresorhus/awesome)
+A curated list of awesome SQL documentations, tutorials and online education. 
 
 - [Documentations](#documentations)
 - [Tutorials](#tutorials)
