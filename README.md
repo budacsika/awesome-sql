@@ -6,10 +6,10 @@ A curated list of awesome SQL documentations, tutorials and online education. In
 * [Education](#education)
 
 ## Documentations
-* [Oracle - SQL Language Reference (12.1)](http://docs.oracle.com/database/121/SQLRF/toc.htm)
+* [SQL Language Reference (12.1)](http://docs.oracle.com/database/121/SQLRF/toc.htm) Official Oracle Database documentation library
 
 ## Tutorials
 
 ## Education
-* [Code School - Try SQL](https://www.codeschool.com/courses/try-sql)
-* [Code School - The sequel to SQL](https://www.codeschool.com/courses/the-sequel-to-sql)
+* [Try SQL](https://www.codeschool.com/courses/try-sql) Code School. Free course.
+* [The sequel to SQL](https://www.codeschool.com/courses/the-sequel-to-sql) Code School. (aggregate, table constraints, normalization, relationships, joins, subqueries)
